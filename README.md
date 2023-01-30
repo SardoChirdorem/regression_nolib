@@ -1,0 +1,1 @@
+This is a basic implementation of a linear regression algorithm. What am I gonna predict? I don't know yet. But we will find something to predict and we will predict it well. We will fit the curves as sexily as possible.
